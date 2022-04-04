@@ -1,0 +1,18 @@
+API: http://timetableapi.ptv.vic.gov.au/swagger/ui/index
+https://stevage.github.io/PTV-API-doc/#header5
+
+
+Courtney St Bus Stop (650m)
+Dowling PI Bus Stop (450m)
+Flemington Road – Stop 12 Tram Stop (150m)
+Flinders Street Station
+Haymarket/Elizabeth St Tram Stop (400m)
+Melbourne Central Train Station
+Queensberry St/PeelSt Tram Stop (900m)
+Royal Melbourne Hospital/Flemington Rd 14 Tram Stop (220m)
+
+Estimated Transportation cost from airport via:
+
+Taxi – $40 to $50
+Uber – $36 to $41
+Tram (Line 59)  – $8 (alight at 14-Royal Melbourne Hospital/Flemington Rd)
