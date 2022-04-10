@@ -1,8 +1,9 @@
-{
-  "0": {
+[
+  {
     "title": "5 bedroom apartment",
     "price": 285,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2020/03/dvmc-5-bedroom-thumb-768x432.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2020/03/dvmc-5-bedroom-thumb-768x432.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -11,10 +12,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "1": {
+  {
     "title": "5 bedroom apartment deluxe",
     "price": 355,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2019/10/5-bed-living-room-600x353-deluxe.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2019/10/5-bed-living-room-600x353-deluxe.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -23,10 +25,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "2": {
+  {
     "title": "4 bedroom apartment deluxe",
     "price": 339,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2019/10/4br-apartment-s-view-h-768x512.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2019/10/4br-apartment-s-view-h-768x512.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -35,10 +38,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "3": {
+  {
     "title": "3 bedroom apartment",
     "price": 309,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2020/04/3-bedroom-thumb.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2020/04/3-bedroom-thumb.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -47,10 +51,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "4": {
+  {
     "title": "3 bedroom apartment large",
     "price": 387,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2020/03/dvmc-3-bedroom-large-thumb-768x432.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2020/03/dvmc-3-bedroom-large-thumb-768x432.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -59,10 +64,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "5": {
+  {
     "title": "2 bedroom studio",
     "price": 298,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2019/12/h033rmit-768x512.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2019/12/h033rmit-768x512.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -71,10 +77,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "6": {
+  {
     "title": "2 bedroom studio with balcony",
     "price": 229,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2019/12/h010rmit-768x512.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2019/12/h010rmit-768x512.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -83,10 +90,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "7": {
+  {
     "title": "2 bedroom apartment",
     "price": 329,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2020/03/dvmc-2-bedroom-thumb-768x432.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2020/03/dvmc-2-bedroom-thumb-768x432.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -95,10 +103,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "8": {
+  {
     "title": "1 bedroom suite",
     "price": 439,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2020/03/1-br-suite-thumb-768x432.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2020/03/1-br-suite-thumb-768x432.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -107,10 +116,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "9": {
+  {
     "title": "1 bedroom studio deluxe",
     "price": 439,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2020/03/1-br-deluxe-studio-768x494.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2020/03/1-br-deluxe-studio-768x494.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -119,10 +129,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "10": {
+  {
     "title": "1 bedroom studio premium",
     "price": 459,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2019/10/1br-studio-h-768x512.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2019/10/1br-studio-h-768x512.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -131,10 +142,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "11": {
+  {
     "title": "1 bedroom studio premium plus",
     "price": 479,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2019/11/1-bedroom-studio-premium-plus-1-600x400.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2019/11/1-bedroom-studio-premium-plus-1-600x400.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -143,10 +155,11 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   },
-  "12": {
+  {
     "title": "1 bedroom apartment",
     "price": 529,
     "image": "https://www.dwellstudent.com.au/wp-content/uploads/2019/10/1-br-apartment-livingroom-h-768x512.jpghttps://www.dwellstudent.com.au/wp-content/uploads/2019/10/1-br-apartment-livingroom-h-768x512.jpg",
+    "Name": "dwell",
     "address": "5-17 flemington road, north melbourne, vic – 3051, australia",
     "link": "https://www.dwellstudent.com.au/melbourne/#rooms",
     "transportation": "5 min tram, 15 min walk",
@@ -155,4 +168,4 @@
     "latitude": -37.7966706,
     "longitude": 144.9511786
   }
-}
+]
