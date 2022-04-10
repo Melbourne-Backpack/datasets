@@ -26,6 +26,7 @@ def whitespace_remover(df):
     Use the whitespace_remover() process on the data frame, which successfully removes the extra whitespace from the columns.
     https://www.geeksforgeeks.org/pandas-strip-whitespace-from-entire-dataframe/
     """
+    df = df.convert_dtypes()
     # iterating over the columns
     for i in df.columns:
 

@@ -1,4 +1,11 @@
-# Reference: https://github.com/RobinCheptileh/simple-firestore-import
+"""
+Reference: https://github.com/RobinCheptileh/simple-firestore-import
+
+$ simple-firestore-import.py
+Path to serviceAccountKey.json: [path/to/serviceAccount.json]
+Path to data file: [path/to/dataFile(.json|.yaml|.yml)]
+Name of collection: [name of collection]
+"""
 
 import os
 import sys
