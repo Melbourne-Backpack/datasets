@@ -19,3 +19,50 @@ Notes on Specific Variables
 
 ### Acknowledgements
 This is intended as a static (unchanging) snapshot of Melbourne Backpack. It was created in April 2022. Additionally, homes with no Price have been removed.
+
+
+## Repository Structure
+
+```
+├── LICENSE
+├── README.md          <- The top-level README for developers using this project.
+├── data
+│   ├── external       <- Data from third party sources.
+│   ├── interim        <- Intermediate data that has been transformed.
+│   ├── processed      <- The final, canonical data sets for modeling.
+│   └── raw            <- The original, immutable data dump.
+│
+│
+├── models             <- Trained and serialized models, model predictions, or model summaries
+│
+├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+│                         the creator's initials, and a short `-` delimited description, e.g.
+│                         `1.0-jqp-initial-data-exploration`.
+│
+│
+├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+│                         generated with `pip freeze > requirements.txt`
+│
+|
+├── src                <- Source code for use in this project.
+│   ├── __init__.py    <- Makes src a Python module
+│   │
+│   │
+│   │
+│   └── cleaning.py  <- Scripts to perform basic cleaning 
+│
+|
+│── web_app                <- Source code for web app.
+│   │
+│   ├── dash           <- Scripts to visualize data using Dash
+│   │   └── app.py
+│   │
+│   ├── streamlit       <- Scripts to build preditive model using Streamlit -  an open-source Python library 
+│     └── app.py
+|
+|── upload-json-file-to-firestore.py        <- Scripts to push .json data to the FireStore
+|
+|
+│── .gitignore                <- plain text file contains files/directories to ignore
+
+```
