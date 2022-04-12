@@ -38,3 +38,17 @@ def whitespace_remover(df):
         else:
             # if condition is False then it will do nothing.
             pass
+        
+        
+
+def write_interim_path(df, csv_name, folder_name): 
+    # set the path of the cleaned data to data 
+    interim_data_path = os.path.join(os.path.pardir, '..', 'data','interim', folder_name)
+
+    write_interim_path = os.path.join(interim_data_path, csv_name)
+    
+    # To write the data from the data frame into a file, use the to_csv function.
+    df.to_csv(write_interim_path, index=False)
+    print(f'cleaned {csv_name} data was successfully saved!\n\n\n')
+    
+    
