@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "melbourne-backpack",
+  "private_key_id": "b18cc812a4aa7b3055efed48ab214c613cb0b988",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkhbkpXZmFCy64\nmuOsQ4+N8Lg0F3rXoPG+D7kAovckAAzzqhMzHNHnKG9UKqaVTS+tQ9Q8P1Qp3w2t\nfY0oAT+TITx+arJUt1VAx+wMVedOfa9GVz+oqO1VlRX9I9GndjBoNN4QwT0qgm8t\n/tuNdnz6iHfzRJ1m2kP9aBB5e4KSH+q1eCbthm+hVol6OOZ2ElVNWYyvTdvoN6EM\nGp0185cYYYXSGCEDikWLKHFvsJAv4sLLRaVEYdVqPmEatcFaTO4H+YBbeNTYU9+X\nSNKTZPuZRqP1gC/znST8iYV13XcbKKyR4vKP3iMRIptfVDXRx+iys/R12Asz+/fy\nrh+E/n4HAgMBAAECggEAE97w172t2qNYn8RZZkd8sbSW0vfZBu0x9XY5romAVxFI\nfy+WBRDgi05Xb+980kCR1xf/rM0rUalWohMtdtz7vD4B6/TgGBpSijH7YRwJBXJp\ntpG4JxtMGw+YKcxnOJYuT4+/GH/2bsl1OzVyeBoNC0drUW8CodcP6i3k+38+7H4L\nxtPq73EtrEJsghhr9sEOtqxZXtV7m+XfGqnpNjXrWgawRWy2aWxJBeVnWTFqTJGz\nW2rvHjhBes8ZyD4wtX+hlqGwn3PrcBW4zhOXJHNGKhQ/WMfltz5+TgmyGAWi4k4G\nDJw4LRdzM6JAD/ksQ5gkPdConVWtCJhDyeoT2Y45fQKBgQDTcpkels1KHkKZyREC\nq4FQTO0be/CyU00j7MsfZd7F2MBpa8UjIF4tXmxCgI2u6xdVFXTqGEY5xn7eU1uj\n1v4BeBJYZ3UXImfSinPrB00x2l+uI+LwAIAeQX8d2Yov0SVelt2jik2O0Ik23+ZD\nSdK3FPpiZ6mf+qL/gRYMdZBL1QKBgQDHL/5c8u3055OIDX5N/tRvyUNRhCArAjLq\n7+WwnhfW3JDRO/DnqhEXR4x0lCJ1s3e29cs3Os+p1eQigLgFTJNGdppSAkJ8wJsW\nWtfO4qySafnZodZ6d5w1ROmz/pZ8xJMNNk91bvpoVGj0ZP+v6jbzGedaM5+eZVax\ntPMjzxWcawKBgQDGFKrgfwDdmC9oBXXL/IJtiULt5lN7mpG/P8qhJTtmOEE4AN9y\nopXXBoeAXRFddZor+KfHzOmsogijmY9Vksfs9GCrNG/6Nh7wmwcwe2yTcTEE31Vu\n4+khbtX4TpwnY1QQomALHjq9uRlxsJnzGyssm5hbqyS6W39qv7C6B0Af6QKBgE+N\nDWuV4g9ThYpqySzhP3q9yNL/j9FdeXR3Byb4nNDFGllWNSpws462lpPgrbqQSJmb\npOOT62gK8qgM/HGxWYhkydFC8cbdLZNKCLKpuP5osM6IYh5bMtnbgfLPFM8Tux8l\nt6pQ/lU4kQo6ZBuf0P5aNBnEUFV0Z6FlgU2l4R2tAoGAIB0mQCYkKFLJ26rIAjS7\n/heeK/RvSvlHAqdOmC315dr/W1A8GeOchVtRCkGyKU88FxEUTlRVajC09gAk8Zqy\nmpLz5k1Ar+3Tb7rsbMJX89yN4Dju7GItkAq7vpCo5OwPKkewKuOhxh155YsNke81\nDMfgYJm3CmpEd87jSbpZtvE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-br5ub@melbourne-backpack.iam.gserviceaccount.com",
+  "client_id": "118205694370709822231",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-br5ub%40melbourne-backpack.iam.gserviceaccount.com"
+}

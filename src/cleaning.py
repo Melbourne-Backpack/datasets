@@ -6,6 +6,8 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+import os
+
 pd.set_option('display.max_rows', 200)
 pd.set_option('display.max_columns', 200)
 
